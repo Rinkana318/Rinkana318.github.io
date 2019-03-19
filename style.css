@@ -5,11 +5,11 @@ nav{
     text-align: center;
 }
 main{
-    margin-left: 20%;
-    margin-right:20%;
+    margin-left: 15%;
+    margin-right:15%;
 }
 header{
-    margin:30px 20% 30px 20%;
+    margin:30px 15% 30px 15%;
 }
 .subheaders{
     margin-bottom:20px;
@@ -17,4 +17,10 @@ header{
 }
 #copyright{
     color:#808080;
+}
+h1{
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+.nav{
+    color:#60FFA2;
 }

@@ -4,16 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Project Name</title>
+    <title>Studio Rin</title>
+    <link href="https://fonts.googleapis.com/css?family=Oleo+Script+Swash+Caps" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css" type="text/css" />
+    <link rel="icon" href="icon.png">
 </head>
 <body>
     <header>
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Project Name</h1>
+                    <h1>Studio Rin</h1>
                 </div>
                 <div class="col-sm-6">
                     <nav class="navbar">
@@ -30,24 +32,12 @@
     <main>
         <div class="container sign-up">
             <div class="jumbotron">
-                <h1>JUMBOTRON HEADER</h1>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-                sed diam nonummy nibh euismod tincidunt ut laoreet dolore
-                magna aliquam erat volutpat. Ut wisi enim ad minim veniam,
-                quis nostrud exerci tation ullamcorper suscipit lobortis nisl
-                ut aliquip ex ea commodo consequat. Duis autem vel eum iriure
-                dolor in hendrerit in vulputate velit esse molestie consequat,
-                vel illum dolore eu feugiat nulla facilisis at vero eros et
-                accumsan et iusto odio dignissim qui blandit praesent luptatum
-                zzril delenit augue duis dolore te feugait nulla facilisi.
-                Nam liber tempor cum soluta nobis eleifend option congue
-                nihil imperdiet doming id quod mazim placerat facer possim
-                assum. Typi non habent claritatem insitam; est usus legentis
-                in iis qui facit eorum claritatem. Investigationes
-                demonstraverunt lectores legere me lius quod ii legunt saepius.
-                Claritas est etiam processus dynamicus, qui sequitur mutationem
-                consuetudium lectorum.</p>
-                <a href="#" class="btn btn-success btn-lg">Sign up Today!</a>
+                <h1>Brad the Bread-Man</h1>
+                <p>Brad is a young duck with one goal in mind, 
+                collecting bread. Brad must fight through Darb's 
+                army of EVIL robots by traveling the world to foil Darb's 
+                plan. Do you have what it takes?</p>
+                <iframe frameborder="0" src="https://itch.io/embed/383590?linkback=true&amp;border_width=5&amp;dark=true" width="560" height="175"></iframe>
             </div>
         </div>
         
